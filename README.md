@@ -1,4 +1,4 @@
-# Pytorch exercises and projects
+# Pytorch Exercises and Projects
 
 Just a recopilation with exercises and projects.
 
